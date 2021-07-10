@@ -13,6 +13,7 @@ header{
     background: url(../img/Asset_11.png);
     background-color: white;    
     margin-bottom: 50px;
+    color: #303031;
 }
 
 .subtitle{
@@ -46,7 +47,7 @@ main{
 }
 
 footer{
-    background-color: #3f3f3f;
+    background-color: #303031;
     text-align: center;
     font-family: 'Roboto Slab', serif;
     color: white;
